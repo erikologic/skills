@@ -32,6 +32,7 @@ Three of the five options at a phase boundary preserve different things: `/compa
 The document carries the live thread (what's in flight, why, and what's next) plus a **suggested skills** section naming what the next agent should reach for. The skill redacts secrets before it writes the file.
 
 It deliberately does not carry anything already written down. The document references specs, plans, ADRs, issues, commits and diffs by path or URL, and never copies them. That keeps the file small, and it keeps the settled detail in one place instead of two copies that drift apart.
+The handoff's prose uses ASD-STE100 Simplified Technical English and your project's domain glossary vocabulary when available.
 
 ## Common questions
 

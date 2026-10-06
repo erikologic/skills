@@ -27,6 +27,8 @@ The spec exists because context windows end. You settled many things while [gril
 
 So the spec does not validate or decide anything. It records what you decided, in your project's own vocabulary, so a fresh session can pick up the work without you explaining it again. If the spec states something you never said, that is a defect.
 
+The spec's prose uses ASD-STE100 Simplified Technical English and your project's domain glossary vocabulary.
+
 ## Seams before prose
 
 Before it writes anything, `to-spec` sketches the **seams** where the feature will be tested, and checks them with you. It prefers existing seams to new ones, and picks the highest seam it can. The ideal number of seams for a change is one.
